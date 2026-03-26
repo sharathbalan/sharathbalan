@@ -1,39 +1,36 @@
-# 👋 Hello World! I'm Sharath  
+# 🚀 Sharath Balan Portfolio
 
-Welcome to my GitHub profile! 🚀  
-I’m an aspiring developer passionate about building **scalable applications**, exploring **AI/ML**, and contributing to **open-source projects**.  
+<p align="center">
+  <b>Full Stack Developer • Tech Architect • Startup Founder</b><br/>
+  Building scalable products, SaaS platforms & real-world solutions.
+</p>
 
----
-
-## 👨‍💻 About Me
-- 🎓 B.Tech in **Artificial Intelligence and Data Science** at Jansons Institute of Technology  
-- 🛠️ Working on projects in **React Native, MERN Stack, and AI/ML**  
-- 🌱 Currently learning **machine learning, cloud computing, and full-stack development**  
-- 🚀 Founder of **Unomechanic** (Mechanic booking service startup) & **Leadstake/Snapcode** (Digital & SaaS services)  
-- ⚡ Fun fact: I love blending **tech + problem-solving** to create impactful real-world solutions  
-
----
-
-## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, Java, C++  
-- **Frameworks/Libraries:** React Native, Node.js, Express.js  
-- **Databases:** MongoDB, Firebase, MySQL  
-- **Other Tools:** Git, Docker, Figma  
+<p align="center">
+  <a href="https://your-portfolio-link.vercel.app">🌐 Live Demo</a> •
+  <a href="https://www.linkedin.com/in/sharathbalan-thangamani-premanathan">LinkedIn</a> •
+  <a href="mailto:sharathbalan2006@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🚗 **Unomechanic** – A mobile app for booking mechanics with real-time notifications  
-- 🛒 **eCommerce App** – React Native app with cart, wishlist, checkout & MyFatoorah payment gateway  
-- 🤖 **AI Chatbot** – Vehicle repair assistant powered by custom knowledge base  
+## 🧑‍💻 About
+
+I'm **Sharath Balan**, a passionate **entrepreneur & full-stack developer** focused on building impactful tech products.
+
+- 🚀 Founder of **UnoMechanic**
+- 👨‍💼 Chief Technology Architect @ isaii
+- 💻 MERN Stack Developer
+- ☁️ Cloud & AI Enthusiast
+
+I love transforming **ideas → scalable products → real users**.
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 🌍 [Portfolio / Website](https://github.com/)  
+## ⚡ Tech Stack
 
----
-
-✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me!*  
+```bash
+Frontend   : Next.js, React.js
+Styling    : Tailwind CSS
+Backend    : Node.js, Express
+Cloud      : AWS Lambda, GCP
+Other      : REST APIs, SaaS Architecture, System Design
